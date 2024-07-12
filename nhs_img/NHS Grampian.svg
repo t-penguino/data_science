@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="39.046856mm"
-   height="28.295246mm"
-   viewBox="0 0 39.046856 28.295246"
+   width="160.00034"
+   height="115.944"
+   viewBox="0 0 42.333423 30.676849"
    version="1.1"
    id="svg918"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="NHS Grampian.svg"
+   sodipodi:docname="GRAM.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,9 +29,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.78216891"
-     inkscape:cx="-375.23864"
-     inkscape:cy="159.17278"
+     inkscape:zoom="1.1741333"
+     inkscape:cx="-274.67069"
+     inkscape:cy="154.58211"
      inkscape:window-width="1920"
      inkscape:window-height="1002"
      inkscape:window-x="2125"
@@ -47,7 +47,7 @@
      transform="translate(-132.35926,-106.61434)">
     <g
        id="g1089"
-       transform="matrix(0.35277777,0,0,-0.35277777,92.854148,302.77818)">
+       transform="matrix(0.35277777,0,0,-0.35277777,94.497431,303.96898)">
       <path
          d="m 202.996,543.424 c -3.943,1.159 -6.277,1.417 -6.277,3.609 0,1.503 1.409,2.621 3.843,2.621 2.896,0 7.975,-2.258 7.975,-2.258 l 2.584,5.979 c 0,0 -4.566,2.68 -10.266,2.68 -7.641,0 -12.557,-4.167 -12.557,-9.667 0,-4.769 3.115,-6.917 9.781,-8.679 3.749,-0.988 6.037,-1.761 6.037,-4.211 0,-1.805 -1.704,-3.136 -3.894,-3.136 -4.923,0 -10.215,2.992 -10.215,2.992 l -2.763,-5.86 c 0,0 4.571,-3.62 11.857,-3.62 8.276,0 13.436,4.339 13.436,10.269 0,4.597 -3.115,7.39 -9.541,9.281"
          style="fill:#144a87;fill-opacity:1;fill-rule:nonzero;stroke:none"
