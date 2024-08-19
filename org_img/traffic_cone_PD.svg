@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   height="850"
+   width="850"
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 544 544"
+   xml:space="preserve"
+   sodipodi:docname="traffic_cone_PD.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs27" /><sodipodi:namedview
+   id="namedview25"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="0.36219927"
+   inkscape:cx="-230.53608"
+   inkscape:cy="495.58355"
+   inkscape:window-width="1920"
+   inkscape:window-height="1002"
+   inkscape:window-x="2125"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+
+
+<g
+   id="g321"
+   transform="translate(16.0005,16)"><path
+     style="fill:#ff9b46"
+     d="M 94.815,474.074 216.229,7.096 C 217.316,2.917 221.088,0 225.406,0 h 61.189 c 4.318,0 8.09,2.917 9.177,7.096 l 121.414,466.978"
+     id="path2" /><g
+     id="g8">
+	<path
+   style="fill:#ff823c"
+   d="m 248.801,0 h -23.396 c -4.318,0 -8.09,2.917 -9.177,7.096 L 94.815,474.074 H 218.074 L 246.642,7.096 C 246.898,2.917 247.785,0 248.801,0 Z"
+   id="path4" />
+	<path
+   style="fill:#ff823c"
+   d="M 464.593,474.074 H 47.407 c -5.236,0 -9.481,4.245 -9.481,9.482 v 18.963 c 0,5.236 4.245,9.481 9.481,9.481 h 417.185 c 5.236,0 9.481,-4.245 9.481,-9.481 v -18.963 c 0.001,-5.238 -4.244,-9.482 -9.48,-9.482 z"
+   id="path6" />
+</g><path
+     style="fill:#f56e2d"
+     d="m 199.111,502.519 v -18.963 c 0,-5.236 4.245,-9.482 9.481,-9.482 H 47.407 c -5.236,0 -9.481,4.245 -9.481,9.482 v 18.963 c 0,5.236 4.245,9.481 9.481,9.481 h 161.185 c -5.237,0 -9.481,-4.245 -9.481,-9.481 z"
+     id="path10" /><g
+     id="g16">
+	<polygon
+   style="fill:#e4eaf8"
+   points="119.467,379.259 392.533,379.259 377.742,322.37 134.258,322.37 "
+   id="polygon12" />
+	<polygon
+   style="fill:#e4eaf8"
+   points="168.77,189.63 343.23,189.63 328.439,132.741 183.561,132.741 "
+   id="polygon14" />
+</g><g
+     id="g22">
+	<polygon
+   style="fill:#c7cfe2"
+   points="168.77,189.63 235.475,189.63 238.956,132.741 183.561,132.741 "
+   id="polygon18" />
+	<polygon
+   style="fill:#c7cfe2"
+   points="119.467,379.259 223.874,379.259 227.354,322.37 134.258,322.37 "
+   id="polygon20" />
+</g></g>
+</svg>
