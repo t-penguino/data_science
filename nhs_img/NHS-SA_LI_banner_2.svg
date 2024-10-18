@@ -20,15 +20,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.74085069"
-     inkscape:cx="2767.0893"
-     inkscape:cy="93.136176"
+     inkscape:zoom="0.49528415"
+     inkscape:cx="405.82764"
+     inkscape:cy="747.04591"
      inkscape:window-width="1920"
      inkscape:window-height="1002"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g41" />
+     inkscape:current-layer="g38" />
   <defs
      id="defs1" />
   <g
@@ -40,13 +40,22 @@
        clip-path="url(#clippath)">
       <rect
          width="3300"
+         height="506.99997"
+         style="fill:#004380;fill-opacity:1;stroke-width:1"
+         id="rect41"
+         x="0"
+         y="-60.499996"
+         inkscape:label="rec_background"
+         clip-path="url(#clippath)" />
+      <rect
+         width="3300"
          height="386"
          style="fill:#203864;fill-opacity:1"
          id="rect2"
          sodipodi:insensitive="true"
          x="0"
          y="0"
-         inkscape:label="rec_background" />
+         inkscape:label="rec_foreground" />
       <path
          d="M568,37v308.200012"
          style="fill:none;stroke:#ffffff;stroke-miterlimit:8;stroke-width:16px;stroke-opacity:1"
