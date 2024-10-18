@@ -2,8 +2,8 @@
 <svg
    id="Layer_1"
    width="3300"
-   height="540"
-   viewBox="0 0 3300 540"
+   height="548"
+   viewBox="0 0 3300 548"
    version="1.1"
    sodipodi:docname="NHS-SA_LI_banner_2.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -20,23 +20,23 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.43173044"
-     inkscape:cx="2108.9548"
-     inkscape:cy="569.79999"
+     inkscape:zoom="0.29627091"
+     inkscape:cx="1545.8825"
+     inkscape:cy="391.53355"
      inkscape:window-width="1920"
      inkscape:window-height="1002"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g38" />
+     inkscape:current-layer="Layer_1" />
   <defs
      id="defs1" />
   <rect
-     width="3300"
-     height="540"
+     width="3304"
+     height="548"
      style="fill:#004380;fill-opacity:1;stroke-width:1"
      id="rect41"
-     x="0"
+     x="-4"
      y="0"
      inkscape:label="rec_background"
      clip-path="url(#clippath)" />
@@ -46,7 +46,7 @@
     <g
        id="g38"
        clip-path="url(#clippath)"
-       transform="translate(0,70)">
+       transform="translate(0,74)">
       <rect
          width="3300"
          height="386"
